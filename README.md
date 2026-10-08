@@ -9,8 +9,7 @@ An interactive dashboard was created to transform raw data into meaningful and e
 🖼️ Dashboard Preview
 <img width="886" height="494" alt="Screenshot 2026-10-08 122909" src="https://github.com/user-attachments/assets/1b8d6fc2-e99f-47b4-b500-315f72d0c428" />
 
-<img width="885" height="494" alt="Screenshot 2026-10-08 122935" src="https://github.com/user-attachments/assets/d9e113f3-9041-4d71-99b2-819431c89caf" />
-
+<img width="882" height="494" alt="Screenshot 2026-10-08 200506" src="https://github.com/user-attachments/assets/ebfe8d90-3fb7-4cc4-be8d-c7f0c7b2ae53" />
 
 
 
